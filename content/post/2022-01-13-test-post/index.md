@@ -2,9 +2,9 @@
 title: Test post
 author: Callum Savage
 date: '2022-01-13'
-slug: []
-categories: []
-tags: []
+slug: [what's a slug]
+categories: [explorative]
+tags: ["ecological forecating", "plotting"]
 ---
 
 This is a test post
