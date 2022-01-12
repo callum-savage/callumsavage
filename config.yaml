@@ -1,5 +1,5 @@
 theme: "hugo-PaperMod"
-baseURL: http://callumsavage.com.au/
+baseURL: https://upbeat-mayer-173a81.netlify.app/
 languageCode: en-us
 title: Callum Savage
 paginate: 5
