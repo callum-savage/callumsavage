@@ -70,3 +70,10 @@ params:
         URL: "https://github.com/callum-savage/callumsavage/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
