@@ -1,0 +1,23 @@
+---
+title: Test post
+author: Callum Savage
+date: '2022-01-13'
+slug: []
+categories: []
+tags: []
+---
+
+This is a test post
+
+```{r}
+head(iris)
+```
+
+```{r}
+library(ggplot2)
+
+iris |>
+  ggplot(aes(x = Sepal.Length, y = Sepal.Width, colour = Petal.Length)) +
+  geom_point()
+```
+
