@@ -1,5 +1,5 @@
 ---
-date: 2020-09-15T11:30:03+00:00
+date: 2020-09-15
 description: "<Write a brief description>"
 tags: ["untagged"]
 draft: true
@@ -14,8 +14,8 @@ disableHLJS: true # to disable Highlight.js loading
 disableAnchoredHeadings: false
 searchHidden: false # hide page from search
 hideSummary: false # hide summary from being shown in pages
-ShowReadingTime: true
-ShowBreadCrumbs: true
+#ShowReadingTime: true
+#ShowBreadCrumbs: true
 ShowPostNavLinks: true
 
 cover:

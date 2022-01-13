@@ -7,7 +7,7 @@ paginate: 5
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: true
+buildFuture: false
 buildExpired: false
 enableEmoji: true
 # googleAnalytics: UA-123-45
@@ -24,13 +24,13 @@ languages:
             main:
                 - name: About
                   url: about/
-                  weight: 5
+                  weight: 10
                 - name: Tags
                   url: tags/
-                  weight: 10
+                  weight: 20
                 - name: Search
                   url: search/
-                  weight: 20
+                  weight: 30
 
 outputs:
     home:
@@ -39,37 +39,42 @@ outputs:
         - JSON
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    env: production
+    title: "Callum Savage"
     description: "Callum Savage's personal website"
-    author: Callum Savage
-    # author: ["Me", "You"] # multiple authors
-
+    author: "Callum Savage"
+    DateFormat: January 2, 2006
     defaultTheme: auto
-    # disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: true
     ShowReadingTime: true
-    # disableSpecial1stPost: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    disableAnchoredHeadings: false
+    hideSummary: false
+    
     displayFullLangName: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowToc: true
-    # comments: false
-    images: ["papermod-cover.png"]
+    comments: false
 
     homeInfoParams:
         Title: "Hello!"
         Content: >
             Welcome to my website
     socialIcons:
+        - name: email
+          url: "mailto:callum.savage@anu.edu.au"
         - name: github
           url: "https://github.com/callum-savage"
-        - name: email
         - name: stackoverflow
+          url: "https://stackoverflow.com/users/11993091/callum-savage"
     editPost:
         URL: "https://github.com/callum-savage/callumsavage/tree/main/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+        Text: "Suggest Changes"
+        appendFilePath: true
 
 markup:
   goldmark:
