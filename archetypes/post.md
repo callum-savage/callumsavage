@@ -1,34 +1,35 @@
 ---
-title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00
-description: "Write a brief description"
-# weight: 1
-# aliases: ["/first"]
+description: "<Write a brief description>"
 tags: ["untagged"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-# showToc: false
-# TocOpen: false
 draft: true
-# hidemeta: false
-# comments: false
+
+showToc: false
+tocopen: false
+hidemeta: false # hide meta elements (date, read-time, etc.)
+comments: false
 # canonicalURL: "https://canonical.url/to/page"
-# disableHLJS: true # to disable highlightjs
-# disableShare: false
-# hideSummary: false
-# searchHidden: true
+disableShare: false
+disableHLJS: true # to disable Highlight.js loading
+disableAnchoredHeadings: false
+searchHidden: false # hide page from search
+hideSummary: false # hide summary from being shown in pages
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+
 cover:
   image: "<image path/url>"
-alt: "<alt text>" # alt text
-caption: "<text>" # display caption under cover
-# relative: false # when using page bundles set this to true
-hidden: true # only hide on current single page
-# editPost:
-#   URL: "https://github.com/<path_to_repo>/content"
-# Text: "Suggest Changes" # edit text
-# appendFilePath: true # to append file path to Edit link
+  alt: "<cover image alt text>"
+  caption: "<caption under cover image>"
+  relative: false
+  hidden: true
+
+weight: 5
 ---
-  
+
+Introductory sentence
+
+<!--more-->
+
+The rest
