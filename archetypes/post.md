@@ -10,7 +10,7 @@ hidemeta: false # hide meta elements (date, read-time, etc.)
 comments: false
 # canonicalURL: "https://canonical.url/to/page"
 disableShare: false
-disableHLJS: true # to disable Highlight.js loading
+# disableHLJS: false # to disable Highlight.js loading
 disableAnchoredHeadings: false
 searchHidden: false # hide page from search
 hideSummary: false # hide summary from being shown in pages

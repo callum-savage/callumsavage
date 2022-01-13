@@ -13,68 +13,74 @@ enableEmoji: true
 # googleAnalytics: UA-123-45
 
 minify:
-    disableXML: true
-    # minifyOutput: true
+  disableXML: true
+  # minifyOutput: true
+  
+assets:
+  disableHLJS: false
+  favicon: "static/favicon.io"
 
 languages:
-    en:
-        languageName: "English"
-        weight: 1
-        menu:
-            main:
-                - name: About
-                  url: about/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 20
-                - name: Search
-                  url: search/
-                  weight: 30
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: About
+          url: about/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 20
+        - name: Search
+          url: search/
+          weight: 30
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
-    env: production
-    title: "Callum Savage"
-    description: "Callum Savage's personal website"
-    author: "Callum Savage"
-    DateFormat: January 2, 2006
-    defaultTheme: auto
-    disableThemeToggle: false
-    ShowShareButtons: true
-    ShowReadingTime: true
-    disableSpecial1stPost: false
-    disableScrollToTop: false
-    disableAnchoredHeadings: false
-    hideSummary: false
-    
-    displayFullLangName: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    ShowToc: true
-    comments: false
+  env: production
+  title: "Callum Savage"
+  description: "Callum Savage's personal website"
+  author: "Callum Savage"
+  DateFormat: January 2, 2006
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowShareButtons: true
+  ShowReadingTime: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  disableAnchoredHeadings: false
+  hideSummary: false
+  
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  comments: false
 
-    homeInfoParams:
-        Title: "Hello!"
-        Content: >
-            Welcome to my website
-    socialIcons:
-        - name: email
-          url: "mailto:callum.savage@anu.edu.au"
-        - name: github
-          url: "https://github.com/callum-savage"
-        - name: stackoverflow
-          url: "https://stackoverflow.com/users/11993091/callum-savage"
-    editPost:
-        URL: "https://github.com/callum-savage/callumsavage/tree/main/content"
-        Text: "Suggest Changes"
-        appendFilePath: true
+  homeInfoParams:
+    Title: "Hello!"
+    Content: >
+        Welcome to my website
+  socialIcons:
+    - name: email
+      url: "mailto:callum.savage@anu.edu.au"
+    - name: github
+      url: "https://github.com/callum-savage"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/11993091/callum-savage"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/callum-savage/"
+  editPost:
+    URL: "https://github.com/callum-savage/callumsavage/tree/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
 
 markup:
   goldmark:
