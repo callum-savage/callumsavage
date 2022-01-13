@@ -5,9 +5,12 @@ date: '2022-01-13'
 slug: []
 categories: []
 tags: [exploratory, ecological forecasting]
+description: "Just an exploratory test post"
 ---
 
 This is a test post
+
+<!--more-->
 
 
 ```r
