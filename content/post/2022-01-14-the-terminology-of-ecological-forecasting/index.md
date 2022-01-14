@@ -23,6 +23,7 @@ cover:
   relative: no
   hidden: yes
 weight: 5
+draft: yes
 ---
 
 ## Introduction
