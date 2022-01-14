@@ -2,7 +2,7 @@
 title: Unpicking the Terminology of Ecological Forecasting
 author: Callum Savage
 date: '2022-01-14'
-slug: []
+slug: ecological-forecasting-terminology
 categories: []
 tags:
   - ecological forecasting
@@ -24,15 +24,18 @@ cover:
   hidden: yes
 weight: 5
 draft: yes
+bibliography: references.bib
+link-citations: yes
+csl: nature
 ---
 
 ## Introduction
 
-I am currently writing a review article on ecological forecasting, and there's a particular barrier I have come up against, again and again: not only is the concept of ecological forecasting loosely defined as a field, so too are the very terms 'ecological' and 'forecasting'. Sometimes, what I would consider a forecast is referred to as a 'prediction' or 'simulation'. Other times the opposite is true, and what I would consider a 'projection' is referred to as a 'forecast'.
+I am currently writing a review article on ecological forecasting, and there’s a particular barrier I have come up against, again and again: not only is the concept of ecological forecasting loosely defined as a field, so too are the very terms ‘ecological’ and ‘forecasting’. Sometimes, what I would consider a forecast is referred to as a ‘prediction’ or ‘simulation’. Other times the opposite is true, and what I would consider a ‘projection’ is referred to as a ‘forecast’.
 
-This led me to really consider exactly what I meant when I say ecological forecasting. And I found I didn't have a solid definition. At least, not one that I was confident was shared by at least part of the ecological forecasting community.
+This led me to really consider exactly what I meant when I say ecological forecasting. And I found I didn’t have a solid definition. At least, not one that I was confident was shared by at least part of the ecological forecasting community.
 
-Thus this blog post, where I intend to round up some of the (often contradictory) ways in which different researches use the terms 'prediction', 'forecast', and 'projection', amongst others. I hope this might be useful to others entering into this field, who have found themselves as befuddles as I am.
+Thus this blog post, where I intend to round up some of the (often contradictory) ways in which different researches use the terms ‘prediction’, ‘forecast’, and ‘projection’, amongst others. I hope this might be useful to others entering into this field, who have found themselves as befuddles as I am.
 
 ## Usage throughout the literature
 
@@ -46,12 +49,24 @@ In the parlance of the IPCC, a prediction or forecast is our best assessment of 
 
 A projection, on the other hand, is a statement about the future contingent upon a particular scenario, the likelihood of which is not part of the projection.
 
-> \[A **climate projection** is the\] response of the climate system to emission or concentration scenarios of greenhouse gases and aerosols, or radiative forcing scenarios, often based upon simulations by climate models. Climate projections are distinguished from climate predictions in order to emphasize that climate projections depend upon the emission/concentration/radiative forcing scenario used, which are based on assumptions, concerning, for example, future socioeconomic and technological developments that may or may not be realized and are therefore subject to substantial uncertainty.
+> \[A **climate projection** is the\] response of the climate system to emission or concentration scenarios of greenhouse gases and aerosols, or radiative forcing scenarios, often based upon simulations by climate models. Climate projections are distinguished from climate predictions in order to emphasize that climate projections depend upon the emission/concentration/radiative forcing scenario used, which are based on assumptions, concerning, for example, future socioeconomic and technological developments that may or may not be realized and are therefore subject to substantial uncertainty.<sup>[1](#ref-masson-delmotte2018)</sup>
 
-Note that not just anything can be a scenario. A scenario should be based on a "coherent and internally consistent set of assumptions about key driving forces".
+Note that not just anything can be a scenario. A scenario should be based on a “coherent and internally consistent set of assumptions about key driving forces”.
 
 These definitions are interesting, as they define a forecast and a prediction synonymously. As such, they are perhaps closest to the usage of the terms by the general public, and there is a certain appeal in sidestepping the conflicting definitions all together.
 
 ### The Ecological Forecasting Institute
 
 ## Summary
+
+## References
+
+<div id="refs" class="references csl-bib-body" line-spacing="2">
+
+<div id="ref-masson-delmotte2018" class="csl-entry">
+
+<span class="csl-left-margin">1. </span><span class="csl-right-inline">Masson-Delmotte, V. *et al.* *An IPCC Special Report on the impacts of global warming of 1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty*. 630 (2018).</span>
+
+</div>
+
+</div>
