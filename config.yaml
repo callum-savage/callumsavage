@@ -48,8 +48,8 @@ params:
   description: "Callum Savage's personal website"
   author: "Callum Savage"
   DateFormat: January 2, 2006
-  defaultTheme: auto
-  disableThemeToggle: false
+  defaultTheme: light
+  disableThemeToggle: true
   ShowShareButtons: false
   ShowReadingTime: true
   disableSpecial1stPost: false
