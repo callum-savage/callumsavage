@@ -1,0 +1,36 @@
+---
+title: The language of ecological forecasting
+author: Callum Savage
+date: '2022-01-13'
+slug: 'ecological-forecasting-language'
+categories: []
+tags:
+  - ecological forecasting
+description: Disentangling the often contradictory terminology
+draft: yes
+showToc: no
+tocopen: no
+hidemeta: no
+comments: no
+disableShare: no
+disableAnchoredHeadings: no
+searchHidden: no
+hideSummary: no
+ShowPostNavLinks: yes
+cover:
+  image: <image path/url>
+  alt: <cover image alt text>
+  caption: <caption under cover image>
+  relative: no
+  hidden: yes
+weight: 5
+bibliography: references.bib
+---
+
+The terms 'forecast' and 'prediction' have been used in often contradictory ways in the field of ecological forecasting [\@dietze2018].
+
+<!--more-->
+
+The rest [@dietze2017]
+
+## References
