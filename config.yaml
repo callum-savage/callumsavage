@@ -48,26 +48,25 @@ params:
   description: "Callum Savage's personal website"
   author: "Callum Savage"
   DateFormat: January 2, 2006
-  defaultTheme: auto
-  disableThemeToggle: false
-  ShowShareButtons: true
+  defaultTheme: light
+  disableThemeToggle: true
+  ShowShareButtons: false
   ShowReadingTime: true
   disableSpecial1stPost: false
-  disableScrollToTop: false
-  disableAnchoredHeadings: false
+  disableScrollToTop: true
+  disableAnchoredHeadings: true
   hideSummary: false
-  
   displayFullLangName: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowToc: true
+  ShowToc: false
   comments: false
 
   homeInfoParams:
     Title: "Hello!"
     Content: >
-        Welcome to my website
+        Welcome to my website :)
   socialIcons:
     - name: email
       url: "mailto:callum.savage@anu.edu.au"
@@ -88,3 +87,6 @@ markup:
       unsafe: true
       
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+
+permalinks:
+  post: "/:year/:month/:day/:slug/"
