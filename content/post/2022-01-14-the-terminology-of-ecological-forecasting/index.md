@@ -1,12 +1,12 @@
 ---
-title: Unpicking the Terminology of Ecological Forecasting
+title: The Semantics of Prediction
 author: Callum Savage
 date: '2022-01-14'
 slug: ecological-forecasting-terminology
 categories: []
 tags:
   - ecological forecasting
-summary: When is it a prediction, and when is it a forecast?
+summary: 'What exactly *is* a prediction, and how does it differ from a forecast?'
 showToc: no
 tocopen: no
 hidemeta: no
@@ -31,13 +31,15 @@ csl: nature
 
 ## Introduction
 
-I am currently writing a review article on ecological forecasting, and there’s an unexpected barrier which I have come up against time and time again: what exactly *is* an ecological forecast.
+There is a great deal of confusion in the ecological forecasting literature about the use of the terms ‘forecasting’ and ‘prediction’. In some articles the terms are used quite loosely, simply to mean ‘a statement about the future’. Other times, they have quite specific definitions.
 
-While the ‘ecological’ half of this term is relatively undisputed, the exact definition of a forecast is surprisingly slippery. Different authors use different terminology, and sometimes what I would consider a forecast is referred to as a prediction, or a simulation. In other cases, the opposite is true, and what I would consider a projection is referred to as a forecast.
+As a newcomer to the field of ecological forecasting, I’ve found these shifting definitions to be a cause of great confusion. Not only can it make reading a paper more difficult, but also when comparing between papers I’ve found I need to be vigilant in confirming that the language is being used in the same way. One paper’s ‘ecological forecast’ might be another’s ‘environmental simulation’.
 
-To be clear, all of these topics may come under the umbrella of ecological forecasting.
+This has been particularly troubling in my current attempts to write a review article. How do you review a field when you can’t even find it’s research?
 
-This imprecise terminology makes it difficult to find papers on ecological forecasting, and makes comparisons between papers quite dangerous unless you have a firm grasp of how each author is using the language. With this in mind, in this blog post I intend to round up some of the ways in which different researchers use the terms ‘prediction’, ‘forecast’, and ‘projection’, among others. I hope this might be useful to others entering into this field who have found themselves as befuddled as I am.
+As ecological forecasting is a relatively young field, I think this inconsistent terminology has more impact than simply confusing novice students like me. It serves to create an additional layer of disconnect between authors. How much harder is it to find an article when you don’t know what the key words are?
+
+The good news is, that with one or two notable exceptions, this confusion can be unraveled. By looking at the language used in key ecological forecasting papers, as well as other forecasting domains, we can find a set of definitions which enable effective communication without loss of specificity.
 
 ## Usage throughout the literature
 
@@ -47,11 +49,15 @@ The Intergovernmental Panel on Climate Change (IPCC), whilst not explicitly an e
 
 In the parlance of the IPCC, predictions and forecasts are the same thing.
 
-> “A climate prediction or climate forecast is the result of an attempt to produce (starting from a particular state of the climate system) an esimate of the actual evolution of the climate in the future”. *(IPCC, AR5 Climate Change 2013: The Physical Science Basis, Glossary under ‘climate prediction’)*
+> “A climate **prediction** or climate **forecast** is the result of an attempt to produce (starting from a particular state of the climate system) an estimate of the actual evolution of the climate in the future”. *(IPCC, AR5 Climate Change 2013: The Physical Science Basis, Glossary under ‘climate prediction’)*
+
+That is to say, a prediction or forecast is our best guess about what will happen in the future.
 
 A projection, on the other hand, is a statement about the future contingent upon a particular scenario, the likelihood of which is not part of the projection.
 
 > “A **projection** is a potential future evolution of a quantity or set of quantities, often computed with the aid of a model. Unlike predictions, projections are conditional on assumptions concerning, for example, future socio-economic and technological developments that may or may not be realized.” *(IPCC, Special Report: Global Warming of 1.5 deg C, Glossary under ‘Projection’)*
+
+In other words, a projection is a ‘what-if’ forecast.
 
 Note that not just anything can be a scenario. A scenario should be “a plausible description of how the future may develop based on a coherent and internally consistent set of assumptions about key driving forces (e.g., rate of technological change, prices) and relationships” *(IPCC, Special Report: Global Warming of 1.5 deg C, Glossary under ‘Scenario’).*
 
@@ -63,8 +69,14 @@ The Ecological Forecasting Institute (EFI) have recently published some conventi
 
 ## Novel perspectives
 
+Beven and Young (2013) make the observation that, in addition
+
+## Definitions
+
 ## Conclusion
 
 At this point, we may well be better off ignoring any distinction between predictions and forecasts. What value we may obtain through precise language is perhaps lost through mismatched understandings.
+
+If the terms prediction and forecast must be used - and often they must - it seems that it is good practice to clearly define them within the text.
 
 ## References
