@@ -29,7 +29,7 @@ link-citations: yes
 csl: nature
 ---
 
-## Introduction
+The language of ecological forecasting is a bit of a mess. As an emerging field of study, it’s understandable that the terminology is still a little loose. H
 
 There is a great deal of confusion in the ecological forecasting literature about the use of the terms ‘forecasting’ and ‘prediction’. In some articles the terms are used quite loosely, simply to mean ‘a statement about the future’. Other times, they have quite specific definitions.
 
@@ -41,7 +41,31 @@ As ecological forecasting is a relatively young field, I think this inconsistent
 
 The good news is, that with one or two notable exceptions, this confusion can be unraveled. By looking at the language used in key ecological forecasting papers, as well as other forecasting domains, we can find a set of definitions which enable effective communication without loss of specificity.
 
+## So what’s a forecast then?
+
+The [Ecological Forecasting Initiative](https://ecoforecast.org/about/) defines ecological forecasting as
+
+> “…the process of predicting the state of ecosystems, ecosystem services, and natural capital, with fully specified uncertainties, and is contingent on explicit scenarios of climate, land use, human population, technologies, and economic activity.” (Clark, 2001)
+
+There’s a few important things to note about this definition. Firstly, *forecasting is not specifically a statement about the future*. A forecast might also be focused on extending results to another physical area, or looking at an unmeasured variable in a the same area. Secondly, *forecasts require uncertainties*. A lot of journal articles will use the term ‘forecast’ without making any explicit predictions, and if they do have predictions, they will often lack the error bounds required for them to be useful. And thirdly, *a forecast can be based on a scenario.* That is to say, a forecast can be based on a situation which, of itself, may be quite unlikely.
+
+While the above definition doesn’t make the difference between a forecast and a prediction explicit, Dietze has clarified that there are two types of forecast:
+
+> “A prediction is a”probabilistic statement that something will happen in the future based on what is known today.” … By contrast, a projection is a “probabilistic statement that it is possible that something will happen in the future” conditioned on boundary condition scenarios.”
+
+In other words, a prediction is a ‘best guess’ forecast, and a projection is a ‘what if’ forecast.
+
+### What’s the trouble?
+
+The definition above seems to be reasonably complete. However some issues emerge when we compare this definition to that used by other academics and institutions. For instance, while Beven and YOung agree on the definitino of a projection[^1]
+
 ## Usage throughout the literature
+
+**The Ecological Forecasting Initiative**
+
+The first place we might look is the [Ecological Forecasting Initiative](https://ecoforecast.org/about/) (EFI). The EFI is a grass roots consortium representing ecological forecasters around the world. They recently published some conventions for the publication of ecological forecasts which define ecological forecasting following the definition of Clark et al. (2001)
+
+The Ecological Forecasting Initiative (EFI) have recently published some conventions for the publication of ecological forecasts. While they acknowledge that there are numerous definitions for what constitutes an ecological forecast, they generally follow the usage of Dietze and Clark. In this terminology, the term forecasting includes both predictions (a probabilistic statement of the future (or location or variable) based on what is known today), and projections (a probabilistic statement of the future contingent upon a scenario). Notably, in comparison with the IPCC, forecast and prediction are not synonymous terms.
 
 ### The IPCC
 
@@ -63,9 +87,9 @@ Note that not just anything can be a scenario. A scenario should be “a plausib
 
 These definitions are interesting, as they define a forecast and a prediction synonymously. As such, they are perhaps closest to the usage of the terms by the general public, and there is a certain appeal in sidestepping the conflicting definitions all together.
 
-### The Ecological Forecasting Institute
+### The Ecological Forecasting Initiative
 
-The Ecological Forecasting Institute (EFI) have recently published some conventions for the publication of ecological forecasts. While they acknowledge that there are numerous definitions for what constitutes an ecological forecast, they generally follow the usage of Dietze and Clark. In this terminology, the term forecasting includes both predictions (a probabilistic statement of the future (or location or variable) based on what is known today), and projections (a probabilistic statement of the future contingent upon a scenario). Notably, in comparison with the IPCC, forecast and prediction are not synonymous terms.
+The Ecological Forecasting Initiative (EFI) have recently published some conventions for the publication of ecological forecasts. While they acknowledge that there are numerous definitions for what constitutes an ecological forecast, they generally follow the usage of Dietze and Clark. In this terminology, the term forecasting includes both predictions (a probabilistic statement of the future (or location or variable) based on what is known today), and projections (a probabilistic statement of the future contingent upon a scenario). Notably, in comparison with the IPCC, forecast and prediction are not synonymous terms.
 
 ## Novel perspectives
 
@@ -80,3 +104,5 @@ At this point, we may well be better off ignoring any distinction between predic
 If the terms prediction and forecast must be used - and often they must - it seems that it is good practice to clearly define them within the text.
 
 ## References
+
+[^1]: The definitions of projections and scenarios are thankfully largely undisputed.
