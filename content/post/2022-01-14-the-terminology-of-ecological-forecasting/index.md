@@ -29,7 +29,9 @@ link-citations: yes
 csl: nature
 ---
 
-The language of ecological forecasting is a bit of a mess. As an emerging field of study, it’s understandable that the terminology is still a little loose. H
+The language of ecological forecasting is a bit of a mess.
+
+As an emerging field of study, it’s understandable that the terminology is still a little loose. H
 
 There is a great deal of confusion in the ecological forecasting literature about the use of the terms ‘forecasting’ and ‘prediction’. In some articles the terms are used quite loosely, simply to mean ‘a statement about the future’. Other times, they have quite specific definitions.
 
@@ -55,9 +57,25 @@ While the above definition doesn’t make the difference between a forecast and 
 
 In other words, a prediction is a ‘best guess’ forecast, and a projection is a ‘what if’ forecast.
 
-### What’s the trouble?
+## What’s the trouble?
 
-The definition above seems to be reasonably complete. However some issues emerge when we compare this definition to that used by other academics and institutions. For instance, while Beven and YOung agree on the definitino of a projection[^1]
+The definition above seems to be reasonably complete. However some issues emerge when we compare this definition to that used by other academics and institutions. For instance, while Beven and Young agree with the EFI on the definition of a projection[^1], their definition of a forecast has a lot more in common with Dietze’s definition of a prediction.
+
+> **Forecasting** is the quantitative reproduction of the behavior of a system ahead of time, but given observations of the inputs, state variables (where applicable), and outputs up to the present time (the forecasting origin).
+
+To make matters worse, according to Beven and Young, the term prediction should be avoided all together due to it’s lack of clear definition.
+
+The IPCC seem to split the difference, defining predictions and forecasts as the same thing
+
+> “A climate **prediction** or climate **forecast** is the result of an attempt to produce (starting from a particular state of the climate system) an estimate of the actual evolution of the climate in the future”. *(IPCC, AR5 Climate Change 2013: The Physical Science Basis, Glossary under ‘climate prediction’).*
+
+All of these definitions might be valid if they were consistent, however the shifting usage of these words between authors and between texts undermines the usefulness of having precise scientific terminology.
+
+## How can we unravel this?
+
+Well, for the most part, we can’t. Most fields have their language which is fairly well established. It’s unfortunate that the definitions used by Ecological forecasting are inconsistent with other fields, but at this point it is likely too late to change course.
+
+Instead, what we can do is ensure that ecolgical forecasting itself remains consistent. Furthermore, it is important that terms are defined clearly before they are used.
 
 ## Usage throughout the literature
 
@@ -91,10 +109,6 @@ These definitions are interesting, as they define a forecast and a prediction sy
 
 The Ecological Forecasting Initiative (EFI) have recently published some conventions for the publication of ecological forecasts. While they acknowledge that there are numerous definitions for what constitutes an ecological forecast, they generally follow the usage of Dietze and Clark. In this terminology, the term forecasting includes both predictions (a probabilistic statement of the future (or location or variable) based on what is known today), and projections (a probabilistic statement of the future contingent upon a scenario). Notably, in comparison with the IPCC, forecast and prediction are not synonymous terms.
 
-## Novel perspectives
-
-Beven and Young (2013) make the observation that, in addition
-
 ## Definitions
 
 ## Conclusion
@@ -103,6 +117,12 @@ At this point, we may well be better off ignoring any distinction between predic
 
 If the terms prediction and forecast must be used - and often they must - it seems that it is good practice to clearly define them within the text.
 
-## References
+Harris (2018)
+
+Hobday (2019)
+
+Carey (2021)
+
+White (2019)
 
 [^1]: The definitions of projections and scenarios are thankfully largely undisputed.
